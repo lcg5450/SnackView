@@ -14,8 +14,5 @@ let package = Package(
     ],
     targets: [
         .target(name: "SnackView", path: "Source")
-    ],
-    swiftLanguageVersions: [
-        .v4.2
     ]
 )
